@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+## Database
+|  |
+| ------- |
+| [1837-daily-leads-and-partners](https://github.com/antoniopater/LeetCode/tree/master/1837-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
