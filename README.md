@@ -70,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/antoniopater/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antoniopater/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
