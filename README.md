@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/antoniopater/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/antoniopater/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antoniopater/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/antoniopater/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Hash Table
 |  |
 | ------- |
