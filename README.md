@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/antoniopater/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antoniopater/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/antoniopater/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/antoniopater/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/antoniopater/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/antoniopater/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/antoniopater/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antoniopater/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/antoniopater/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Database
 |  |
