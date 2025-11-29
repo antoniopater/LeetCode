@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/antoniopater/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antoniopater/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/antoniopater/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/antoniopater/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/antoniopater/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3668-restore-finishing-order](https://github.com/antoniopater/LeetCode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
