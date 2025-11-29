@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/antoniopater/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/antoniopater/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antoniopater/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antoniopater/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
