@@ -90,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/antoniopater/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/antoniopater/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1587-bank-account-summary-ii](https://github.com/antoniopater/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/antoniopater/LeetCode/tree/master/1837-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
