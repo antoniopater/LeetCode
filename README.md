@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/antoniopater/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/antoniopater/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/antoniopater/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/antoniopater/LeetCode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/antoniopater/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/antoniopater/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/antoniopater/LeetCode/tree/master/0782-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/antoniopater/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/antoniopater/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/antoniopater/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/antoniopater/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/antoniopater/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
