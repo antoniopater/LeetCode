@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/antoniopater/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antoniopater/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/antoniopater/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/antoniopater/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/antoniopater/LeetCode/tree/master/2418-sort-the-people) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/antoniopater/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/antoniopater/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/antoniopater/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/antoniopater/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/antoniopater/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/antoniopater/LeetCode/tree/master/2418-sort-the-people) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/antoniopater/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/antoniopater/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/antoniopater/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/antoniopater/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/antoniopater/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/antoniopater/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
