@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/antoniopater/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/antoniopater/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/antoniopater/LeetCode/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antoniopater/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/antoniopater/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antoniopater/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/antoniopater/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/antoniopater/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/antoniopater/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/antoniopater/LeetCode/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antoniopater/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/antoniopater/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
