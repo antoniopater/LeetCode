@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/antoniopater/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antoniopater/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/antoniopater/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/antoniopater/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/antoniopater/LeetCode/tree/master/1837-daily-leads-and-partners) |
+## Linked List
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/antoniopater/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/antoniopater/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
