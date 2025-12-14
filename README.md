@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/antoniopater/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/antoniopater/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/antoniopater/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/antoniopater/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2418-sort-the-people](https://github.com/antoniopater/LeetCode/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antoniopater/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/antoniopater/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/antoniopater/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/antoniopater/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antoniopater/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/antoniopater/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/antoniopater/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 <!---LeetCode Topics End-->
