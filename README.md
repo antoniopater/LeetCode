@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/antoniopater/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/antoniopater/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/antoniopater/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/antoniopater/LeetCode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/antoniopater/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/antoniopater/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/antoniopater/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/antoniopater/LeetCode/tree/master/0066-plus-one) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/antoniopater/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/antoniopater/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/antoniopater/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
